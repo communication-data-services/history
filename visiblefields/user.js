@@ -1,0 +1,1 @@
+module.exports = ['id', 'status', 'substatus', 'sendingsystem', 'sendingsystemid', 'backreference', 'forwardreference', 'from', 'to', 'subject', 'text', 'html', 'notsendbefore', 'notsendafter', 'sendingsystemnotified', 'errors'];

@@ -1,0 +1,21 @@
+{
+  "name": "communication__data_historyservice",
+  "version": "1.0.0",
+  "description": "HistoryService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:communication-data-services/history.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "History"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC"
+}
+
